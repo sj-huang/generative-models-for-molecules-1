@@ -8,7 +8,12 @@ To get an overview you can have a look at the following review articles:
 [Deep learning for molecular generation and optimization - a review of the state of the art (2019)](http://arxiv.org/abs/1903.04388)  
 [Inverse molecular design using machine learning: Generative models for matter engineering (2018)](https://science.sciencemag.org/content/361/6400/360)
 
-## Publications:  
+## Evaluation:
+[Fréchet ChemNet Distance: A metric for generative models for molecules in drug discovery (2018)](https://doi.org/10.1021/acs.jcim.8b00234)  
+[GuacaMol: Benchmarking Models for De Novo Molecular Design (2018)](http://arxiv.org/abs/1811.09621)  
+[Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models (2018)](http://arxiv.org/abs/1811.12823)
+
+## Methods:  
 [Conditional Molecular Design with Deep Generative Models (2019)](https://doi.org/10.1021/acs.jcim.8b00263)  
 [Mol-CycleGAN - a generative model for molecular optimization (2019)](http://arxiv.org/abs/1902.02119)  
 [Exploring the GDB-13 chemical space using deep generative models (2019)](https://doi.org/10.1186/s13321-019-0341-z)  
